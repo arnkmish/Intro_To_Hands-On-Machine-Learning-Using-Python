@@ -17,3 +17,12 @@ As part of this workshop, I served as the sole resource person for the hands-on 
 12. Topic 10: Text Sentiment analysis using LSTM based RNN.
 
 Corresponding to each of the topic mentioned above, iPython notebooks have been uploaded in this repository.
+
+Datasets utilized in this workshop are-
+
+1. PIMA Indian diabetes dataset. (https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+2. Breast Cancer Wisconsin (Diagnostic) Dataset. (https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic))
+3. Breast Cancer Coimbra Dataset. (https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra)
+4. MNIST dataset. (http://yann.lecun.com/exdb/mnist/)
+5. IMDB Movie Review dataset. (https://ai.stanford.edu/~amaas/data/sentiment/)
+6. Breast Ultrasound Image dataset. (https://data.mendeley.com/datasets/wmy84gzngw/1)
